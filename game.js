@@ -179,7 +179,7 @@ function create ()
     let text = ' Welcome : '+user+'\t\t\t\t\t\t\t\t'+'Score : '+score+'\t\t\t\t\t\t\t\t'+'Level : '+level+'\t\t\t\t\t\t\t\t'+'Lives : '+lives;
  
     //  The score
-    scoreText = this.add.text(85, 9, text, { fontSize: '15px', fill: '#000' });
+    scoreText = this.add.text(80, 9, text, { fontSize: '15px', fill: '#000' });
 
     //create more platforms
     platforms = this.physics.add.staticGroup();
