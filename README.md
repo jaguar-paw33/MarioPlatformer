@@ -1,3 +1,3 @@
 # MarioPlatformer
 
-Live : https://mario-pltformer.herokuapp.com/
+Live : https://mario-platformer.herokuapp.com/
